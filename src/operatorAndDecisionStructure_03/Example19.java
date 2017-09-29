@@ -11,6 +11,8 @@ public class Example19 {
 					break;
 		case 2 * 5: System.out.println("C");
 					break;
+		case NUM : System.out.println("D");
+					break;
 		}
 	}
 	
